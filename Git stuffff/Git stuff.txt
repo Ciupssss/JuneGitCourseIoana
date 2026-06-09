@@ -25,3 +25,4 @@ git branch -d feature/login
 https://github.com/join
 ===============
 https://atos365-my.sharepoint.com/personal/ioana-andreea_cuc_atos_net/_layouts/15/lists.aspx
+yes
