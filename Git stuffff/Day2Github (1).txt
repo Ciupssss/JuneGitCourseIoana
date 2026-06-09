@@ -1,0 +1,117 @@
+Open the GitHub home page
+
+Click on New
+
+Enter a name for your repo
+
+add description if necessary
+
+Select ON for readme.txt
+
+
+
+create --> new repository
+
+To add collbarotors
+
+settings --> collabarators --> search with id or email and add
+
+
+
+To share to anyone
+
+click on code > copy URL (HTTPs)
+
+share to anyone
+
+
+To copy from Remote to Local
+
+git clone "URL"
+
+
+edit the files in folder
+
+git add .
+git commit -m"new file"
+
+git push [only collaborators]
+
+If there's a change in central repo
+
+git pull [changes are taken to local repository]
+
+git push [ update your changes to central repo]
+
+
+Go to GitHub repo
+
+branches
+
+new branch
+
+add some files and commit
+
+
+compare and create pull request
+
+create pull request
+
+commit and merge
+
+
+To work from VScode 
+
+
+near the terminal [+]click on down arrow
+
+select git Bash
+
+and work on Git commands
+
+
+git fetch -- shows all the new changes in central repo
+
+git merge -- to merge from central to local
+
+
+git log --all --decorate --oneline --graph --> to view over all commits and branches 
+
+
+To copy any public repository
+
+
+1) fork
+
+   open the repo url  
+   click on fork
+   create new fork
+
+    give a name --> save
+
+
+2) import
+
+   copy the repo URl
+    click on + [select import repo]
+
+     paste the url
+
+     give a name for your repo
+
+     import
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
